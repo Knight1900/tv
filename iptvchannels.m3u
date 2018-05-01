@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1,Первый канал (+2)
-http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/79/index.m3u8
 #EXTINF:-1,Первый канал  HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/156/index.m3u8
 #EXTINF:-1,Россия 1 HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/157/index.m3u8
-#EXTINF:-1,НТВ (+2)
-http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/80/index.m3u8
 #EXTINF:-1,НТВ HD
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/109/index.m3u8
 #EXTINF:-1,ТНТ HD
@@ -223,7 +219,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/52/index
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/53/index.m3u8
 #EXTINF:-1,Paramount Comedy Russia
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/58/index.m3u8
-#EXTINF:-1,Мама
+#EXTINF:-1,Мама podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/60/index.m3u8
 #EXTINF:-1,Paramount Channel Russia
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/61/index.m3u8
@@ -261,7 +257,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/97/index
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/100/index.m3u8
 #EXTINF:-1,Bridge TV Dance
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/101/index.m3u8
-#EXTINF:-1,ТНТ4
+#EXTINF:-1,ТНТ4 podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/103/index.m3u8
 #EXTINF:-1,Ани
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/104/index.m3u8
@@ -295,7 +291,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/135/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/136/index.m3u8
 #EXTINF:-1,TV-21 M
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/137/index.m3u8
-#EXTINF:-1,A2
+#EXTINF:-1,A2 podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/139/index.m3u8
 #EXTINF:-1,Bridge TV
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/140/index.m3u8
@@ -351,7 +347,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/203/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/204/index.m3u8
 #EXTINF:-1,Спас
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/205/index.m3u8
-#EXTINF:-1,ТВ3
+#EXTINF:-1,ТВ3 podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/206/index.m3u8
 #EXTINF:-1,Пятница! (0h)
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/207/index.m3u8
@@ -409,7 +405,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/296/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/298/index.m3u8
 #EXTINF:-1,НТВ Право
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/299/index.m3u8
-#EXTINF:-1,Мульт
+#EXTINF:-1,Мульт podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/300/index.m3u8
 #EXTINF:-1,НТВ Сериал
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/301/index.m3u8
@@ -431,7 +427,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/308/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/309/index.m3u8
 #EXTINF:-1,Москва Доверие
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/311/index.m3u8
-#EXTINF:-1,Живи!
+#EXTINF:-1,Живи! podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/312/index.m3u8
 #EXTINF:-1,Сарафан
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/313/index.m3u8
@@ -471,7 +467,7 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/519/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/543/index.m3u8
 #EXTINF:-1,Kazakh TV
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/591/index.m3u8
-#EXTINF:-1,CNL
+#EXTINF:-1,CNL  podkola.net
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/624/index.m3u8
 #EXTINF:-1,Russian Music Box
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/626/index.m3u8
@@ -517,3 +513,5 @@ http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/950/inde
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/968/index.m3u8
 #EXTINF:-1,Дорама
 http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/969/index.m3u8
+#EXTINF:-1,Союз
+http://playlist.onlybest.tv/ru/channel/ccd1cc9adb89911e86a241fe67161617/981/index.m3u8
