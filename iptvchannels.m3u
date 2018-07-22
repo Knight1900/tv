@@ -1,1 +1,78 @@
-
+#EXTM3U
+# Playlist created by SMPlayer 18.6.0 (ревизия 9075) 
+#EXTINF:1.64543,Первый канал
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R03_1TV/variant.m3u8
+#EXTINF:0.957333,Звезда
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R03_ZVEZDA/variant.m3u8
+#EXTINF:1.61974,НТВ
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R03_NTV/variant.m3u8
+#EXTINF:1.951,ТВ Центр
+rtmp://tvc.cdnvideo.ru/tvc-p212/rtmp_p11_hq
+#EXTINF:0.832,Волга (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_NN_VOLGA/variant.m3u8
+#EXTINF:1.04533,ТВ 3
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R01_TV3/variant.m3u8
+#EXTINF:1.04533,ТНТ
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R01_TNT/variant.m3u8
+#EXTINF:1.04533,СТС
+http://rt-ct-vlad-htlive-lb.cdn.ngenix.net/hls/CH_R02_STS/variant.m3u8
+#EXTINF:0.938666,Первый городской (Нижний Новгород)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_NN_PERVYGORODSKOY/variant.m3u8
+#EXTINF:1.50711,Дзержинск-ТВ (Дзержинск)
+http://rt-vlg-nn-htlive-lb.cdn.ngenix.net/hls/CH_R01_DZERZHINSK/variant.m3u8
+#EXTINF:0.938666,ННТВ (Нижний Новгород)
+http://rt-vlg-NN-htlive-lb.cdn.ngenix.net/hls/CH_R02_NNTV/variant.m3u8
+#EXTINF:0.832,Девятка ТВ (Киров)
+http://rt-vlg-kirov-htlive-lb.cdn.ngenix.net/hls/CH_R02_OTT_VLG_KIROV_9TV/variant.m3u8
+#EXTINF:0.949333,Саратов 24 (Саратов)
+http://rt-vlg-saratov-htlive-lb.cdn.ngenix.net/hls/CH_R01_OTT_VLG_SARATOV_SARATOV24/variant.m3u8
+#EXTINF:0.999433,Общественное независимое телевидение
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:0.927955,Кино Заказ
+http://hls.goodgame.ru/hls/5346.m3u8
+#EXTINF:2.66858,National Geographic HD
+http://185.162.141.69:9001/natgeo
+#EXTINF:2.98136,History HD
+http://185.162.141.69:9001/history
+#EXTINF:1.87992,EUROSPORT 1 HD
+http://185.162.141.69:9001/eurosport
+#EXTINF:3.538,Amedia Premium HD
+http://185.162.141.69:9001/amedia
+#EXTINF:2.168,Киносемья
+http://185.162.141.69:9004/premiera
+#EXTINF:1.82,Киносерия
+http://185.162.141.69:9004/mnogotv
+#EXTINF:3.404,Киномикс
+http://185.162.141.69:9004/kinoplus
+#EXTINF:1.948,КиноХит
+http://185.162.141.69:9004/kinohit
+#EXTINF:2.02,Авто +
+http://185.162.141.69:9004/avtoplus
+#EXTINF:2.496,Первый HD
+http://185.162.141.69:9007/perviy
+#EXTINF:2.808,Nat Geo Wild HD
+http://185.162.141.69:9007/natgeowild
+#EXTINF:2.09788,TV 1000 Action
+http://185.162.141.69:9008/tv1000action
+#EXTINF:2.22799,Euronews
+http://185.162.141.69:9008/euronews
+#EXTINF:2.16,Моя планета
+http://185.162.141.69:9009/planeta
+#EXTINF:2.4,Outdoor Channel
+http://185.162.141.69:9009/outdoor
+#EXTINF:1.82,Наука 2.0
+http://185.162.141.69:9009/nauka
+#EXTINF:2.784,THT4
+http://185.162.141.69:9009/comedy
+#EXTINF:1.77237,Матч Футбол 1 HD
+http://185.162.141.69:9012/football
+#EXTINF:3.00766,MTV Dance
+http://185.162.141.69:9014/mtvdance
+#EXTINF:1.704,Cartoon Network
+http://185.162.141.69:9014/cartoon
+#EXTINF:1.44,Disney Junior
+http://185.162.141.69:9022/disney
+#EXTINF:3.20147,HTB HD
+http://185.162.141.69:9065/ntv
+#EXTINF:2.23201,Animal Planet HD
+http://185.162.141.69:9065/animal
